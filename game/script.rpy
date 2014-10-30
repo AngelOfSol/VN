@@ -35,15 +35,15 @@ label start:
             
 label neet_start:
     think_neet "I've never had a goal in life, and I've never cared about other people.  I don't even know how to start looking for what I want...  Instead of adopted a policy of isolationism, hoping one day I'll find something to dream for."
-    think_neet "But it was just another one of those days, you know?  The kind where you get up, and realize nothing is going to go right today. So you do all you can to minimize the damage, and it never ends up being enough."
+    think_neet "But it was just another one of those days, you know?  The kind where you get up, and realize nothing is going to go right today. So you do all you can to minimize the damage, and it never ends up being enough.  Somehow, I made it out alive and with just a little bit more than I started with."
     #fade out fade in
-    "9:00AM Bedroom."
+    "9:00AM NEET's Bedroom."
     think_neet "SCREECCCCCHHHHHHH."
-    neet "Ugh.... Why do I even use this alarm...."
+    neet "Ugh...."
     think_neet "I turnover my phone to shut off the alarm.  The annoying screech is a great way to force my self up, but it feels like I'm being subjected to the rack. The grating sound ruins whatever sleep I got that night."
     think_neet "Nevertheless, I fall back asleep, waiting for the second alarm telling me its actually time to get up."
     #fade out fade in
-    "9:45AM Bedroom"
+    "9:45AM NEET's Bedroom"
     think_neet "After waking up to a second alarm, I wander off towards the shower."
     neet "Guess I have to go outside today.  The buyer did want it dropped off before tomorrow 5:00AM."
     neet "Sigh..."
@@ -101,7 +101,7 @@ label neet_start:
             jump read_texts
     think_neet "Having finished reading and responding to my text messages, I get started on breakfast."
     #fade out fade in
-    "11:30AM, Hallway."
+    "11:30AM, NEET's Front Hallway."
     
     think_neet "After finishing my morning routine, I comtemplate my upcoming events for the day: the meetup with FTM, and the erotica drop off.  Neither is particularly important, but I don't like being unprepared for events I've decided to attend to."
     think_neet "I gather up all of the stuff my buyer ordered, and pack my taser and pistol into my vest.  Being licensed for a concealed carry is nice when you do shady business all the time."
